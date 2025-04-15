@@ -90,8 +90,8 @@ export default function SettingsPage() {
   const [selectedLanguage, setSelectedLanguage] = useState("en");
   
   // Profile state
-  const [displayName, setDisplayName] = useState("John Doe");
-  const [email, setEmail] = useState("john@example.com");
+  const [displayName, setDisplayName] = useState("Alex Johnson");
+  const [email, setEmail] = useState("AlexJohnson@animail.com");
   const [bio, setBio] = useState("Anime and gaming enthusiast");
   
   // Accessibility settings
