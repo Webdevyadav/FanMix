@@ -4,8 +4,6 @@ FanMix is a modern entertainment platform that connects fans across different me
 
 🌐 **Live Demo**: [FanMix on Netlify](https://fanmix.netlify.app/)
 
-![FanMix Screenshot](https://i.imgur.com/gJAcwS3.jpg)
-
 ## Features
 
 - **Multi-media exploration** - Browse movies, TV shows, anime, music, podcasts and more
